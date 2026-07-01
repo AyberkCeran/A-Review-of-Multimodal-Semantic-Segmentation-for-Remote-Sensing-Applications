@@ -39,10 +39,10 @@ A categorized catalog of multimodal remote sensing segmentation models, organize
 
 ### Urban & Building Extraction
 
-| Model | Modalities | Datasets & Rankings | Reference | Github |
-|---|---|---|---|---|
+| Model | Modalities | Datasets & Rankings | Reference |
+|---|---|---|---|
 | [MFFN](https://scholar.google.com/scholar?q=A+Multimodal+Feature+Fusion+Network+for+Building+Extraction+With+Very+High-Resolution+Remote+Sensing+Image+and+LiDAR+Data) | HRI & LiDAR | IoU (Vaihingen 91.8%, Potsdam 93.04%, USGS 84.59%) | Luo et al., 2024 |
-| [UisNet](https://scholar.google.com/scholar?q=Fine-scale+urban+informal+settlements+mapping+by+fusing+remote+sensing+images+and+building+data+via+a+transformer-based+multimodal+fusion+network) | RGB & Building Polygon | mIoU (Shenzhen 85.51%, GID 60.23%) | Fan et al., 2022 | https://github.com/RunyuFan/|
+| [UisNet](https://scholar.google.com/scholar?q=Fine-scale+urban+informal+settlements+mapping+by+fusing+remote+sensing+images+and+building+data+via+a+transformer-based+multimodal+fusion+network) | RGB & Building Polygon | mIoU (Shenzhen 85.51%, GID 60.23%) | Fan et al., 2022 |
 | [PMNet](https://scholar.google.com/scholar?q=A+point-wise+LiDAR+and+image+multimodal+fusion+network+%28PMNet%29+for+aerial+point+cloud+3D+semantic+segmentation) | HSI & LiDAR | mIoU (UHC 71%, Osaka 57%) | Poliyapram et al., 2019 |
 
 ### Agricultural Landscape Mapping
@@ -54,9 +54,9 @@ A categorized catalog of multimodal remote sensing segmentation models, organize
 
 ### Cloud & Occlusion Handling
 
-| Model | Modalities | Datasets & Rankings | Reference | Github |
-|---|---|---|---|---|
-| [CloudSeg](https://scholar.google.com/scholar?q=CloudSeg%3A+A+multi-modal+learning+framework+for+robust+land+cover+mapping+under+cloudy+conditions) | RGB & NIR & SAR | mIoU (M3M-CR 53.64%, WHU-OPT-SAR 52.40%) | Xu et al., 2024 | https://github.com/xufangchn/CloudSeg |
+| Model | Modalities | Datasets & Rankings | Reference |
+|---|---|---|---|
+| [CloudSeg](https://scholar.google.com/scholar?q=CloudSeg%3A+A+multi-modal+learning+framework+for+robust+land+cover+mapping+under+cloudy+conditions) | RGB & NIR & SAR | mIoU (M3M-CR 53.64%, WHU-OPT-SAR 52.40%) | Xu et al., 2024 |
 | [MoCG](https://scholar.google.com/scholar?q=MoCG%3A+Modality+Characteristics-Guided+Semantic+Segmentation+in+Multimodal+Remote+Sensing+Images) | OPT & SAR | mIoU (WHU-OPT-SAR 69.1%, DFC23 86.7%) | Xiao et al., 2023 |
 
 ---
@@ -237,3 +237,4 @@ A categorized catalog of multimodal remote sensing segmentation models, organize
 - **OA** — Overall Accuracy
 - **gIoU** — generalized Intersection over Union
 
+_Generated from `bibliography.bib` and the model classification table._
