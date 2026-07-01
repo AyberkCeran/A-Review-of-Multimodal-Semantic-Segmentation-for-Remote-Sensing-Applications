@@ -237,4 +237,3 @@ A categorized catalog of multimodal remote sensing segmentation models, organize
 - **OA** — Overall Accuracy
 - **gIoU** — generalized Intersection over Union
 
-_Generated from `bibliography.bib` and the model classification table._
