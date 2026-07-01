@@ -54,9 +54,9 @@ A categorized catalog of multimodal remote sensing segmentation models, organize
 
 ### Cloud & Occlusion Handling
 
-| Model | Modalities | Datasets & Rankings | Reference |
-|---|---|---|---|
-| [CloudSeg](https://scholar.google.com/scholar?q=CloudSeg%3A+A+multi-modal+learning+framework+for+robust+land+cover+mapping+under+cloudy+conditions) | RGB & NIR & SAR | mIoU (M3M-CR 53.64%, WHU-OPT-SAR 52.40%) | Xu et al., 2024 |
+| Model | Modalities | Datasets & Rankings | Reference | Github |
+|---|---|---|---|---|
+| [CloudSeg](https://scholar.google.com/scholar?q=CloudSeg%3A+A+multi-modal+learning+framework+for+robust+land+cover+mapping+under+cloudy+conditions) | RGB & NIR & SAR | mIoU (M3M-CR 53.64%, WHU-OPT-SAR 52.40%) | Xu et al., 2024 | https://github.com/xufangchn/CloudSeg |
 | [MoCG](https://scholar.google.com/scholar?q=MoCG%3A+Modality+Characteristics-Guided+Semantic+Segmentation+in+Multimodal+Remote+Sensing+Images) | OPT & SAR | mIoU (WHU-OPT-SAR 69.1%, DFC23 86.7%) | Xiao et al., 2023 |
 
 ---
