@@ -39,10 +39,10 @@ A categorized catalog of multimodal remote sensing segmentation models, organize
 
 ### Urban & Building Extraction
 
-| Model | Modalities | Datasets & Rankings | Reference |
-|---|---|---|---|
+| Model | Modalities | Datasets & Rankings | Reference | Github |
+|---|---|---|---|---|
 | [MFFN](https://scholar.google.com/scholar?q=A+Multimodal+Feature+Fusion+Network+for+Building+Extraction+With+Very+High-Resolution+Remote+Sensing+Image+and+LiDAR+Data) | HRI & LiDAR | IoU (Vaihingen 91.8%, Potsdam 93.04%, USGS 84.59%) | Luo et al., 2024 |
-| [UisNet](https://scholar.google.com/scholar?q=Fine-scale+urban+informal+settlements+mapping+by+fusing+remote+sensing+images+and+building+data+via+a+transformer-based+multimodal+fusion+network) | RGB & Building Polygon | mIoU (Shenzhen 85.51%, GID 60.23%) | Fan et al., 2022 |
+| [UisNet](https://scholar.google.com/scholar?q=Fine-scale+urban+informal+settlements+mapping+by+fusing+remote+sensing+images+and+building+data+via+a+transformer-based+multimodal+fusion+network) | RGB & Building Polygon | mIoU (Shenzhen 85.51%, GID 60.23%) | Fan et al., 2022 | https://github.com/RunyuFan/|
 | [PMNet](https://scholar.google.com/scholar?q=A+point-wise+LiDAR+and+image+multimodal+fusion+network+%28PMNet%29+for+aerial+point+cloud+3D+semantic+segmentation) | HSI & LiDAR | mIoU (UHC 71%, Osaka 57%) | Poliyapram et al., 2019 |
 
 ### Agricultural Landscape Mapping
